@@ -1,7 +1,6 @@
 # WHCalendar
-纯Swift实现日历Demo
-项目使用SnapKit进行约束布局
-使用步骤:
+1.纯Swift实现日历Demo,项目使用SnapKit进行约束布局
+2.使用步骤:
 let calendar = WHCalendar()
         calendar.dafaultDate = self.defaultDate
         calendar.animationType = .center
