@@ -1,0 +1,6 @@
+framework module Pods_WHCalendar {
+  umbrella header "Pods-WHCalendar-umbrella.h"
+
+  export *
+  module * { export * }
+}
